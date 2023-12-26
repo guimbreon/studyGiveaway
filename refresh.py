@@ -1,7 +1,8 @@
 import dataWork
 import copy
 import sys
-def refresh(fileName):
+from constants import *
+def refresh(fileName, minAge = MINAGE, maxAge = MAXAGE, medGrade = MEDGRADE):
     """
     Refreshes data by applying a series of operations and writes the result to a new file.
 
@@ -19,8 +20,8 @@ def refresh(fileName):
     """
     newFile = copy.deepcopy(fileName).replace("data","lastData")
     file = dataWork.readFile(fileName)
-    people = dataWork.selection(file)
-    people = dataWork.medianGrade(people)
+    people = dataWork.selection(file, minAge , maxAge)
+    people = dataWork.medianGrade(people, medGrade)
     cities = dataWork.getCities(people)
     allTop5 = []
     for city in cities:
@@ -31,6 +32,8 @@ def refresh(fileName):
             allInOne.append(top)
     dataWork.writeFile(newFile, allInOne)
     print("finished")
-    
-fileName = sys.argv[1]
-refresh(fileName)
+try:
+    fileName = sys.argv[1]
+    refresh(fileName)
+except:
+    print("Enter a valid filePath in the format\npython3 refresh.py filePath")

@@ -30,7 +30,7 @@ def writeFile(fileName, fileData):
     with open(fileName, 'w') as jsonFile:
         json.dump(fileData, jsonFile, indent = 2)
 
-def selection(file):
+def selection(file, minAge, maxAge):
     """
     Selects and returns a list of people who are students and aged between 18 and 26.
 
@@ -43,11 +43,11 @@ def selection(file):
     """
     selected = []
     for person in file:
-        if person[AGE] <= 26 and person[AGE] >= 18 and person[STUDENT]:
+        if person[AGE] <= maxAge and person[AGE] >= minAge and person[STUDENT]:
             selected.append(person)
     return selected
 
-def medianGrade(allPeople):
+def medianGrade(allPeople, medGrade):
     """
     Calculates and returns a list of people whose median grade is above 75%.
 
@@ -66,7 +66,7 @@ def medianGrade(allPeople):
             grade += people[GRADES][i]
         grade = round(grade/3,2)
         #checks if the median grade is over 75% and if it is, it qualifies for the giveAway
-        if grade >= 75:
+        if grade >= medGrade:
             people[GRADES] = grade
             medianPeople.append(people)
     return medianPeople

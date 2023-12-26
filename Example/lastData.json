@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Jennifer Barnes",
+    "age": 20,
+    "city": "Michellebury",
+    "isStudent": true,
+    "grades": 75.67
+  },
+  {
+    "name": "Kyle Camacho",
+    "age": 21,
+    "city": "South Jason",
+    "isStudent": true,
+    "grades": 85.33
+  },
+  {
+    "name": "Cory Foster",
+    "age": 22,
+    "city": "Tonyfort",
+    "isStudent": true,
+    "grades": 82.67
+  },
+  {
+    "name": "Kathryn Waters",
+    "age": 26,
+    "city": "New Melissaport",
+    "isStudent": true,
+    "grades": 81.33
+  },
+  {
+    "name": "Taylor Peterson",
+    "age": 26,
+    "city": "New Christopher",
+    "isStudent": true,
+    "grades": 84.0
+  },
+  {
+    "name": "Shawn Turner DDS",
+    "age": 21,
+    "city": "Brandonview",
+    "isStudent": true,
+    "grades": 81.33
+  },
+  {
+    "name": "David Robles",
+    "age": 22,
+    "city": "Brandonview",
+    "isStudent": true,
+    "grades": 77.33
+  },
+  {
+    "name": "Katrina Davidson",
+    "age": 18,
+    "city": "Millerfurt",
+    "isStudent": true,
+    "grades": 85.33
+  },
+  {
+    "name": "Kimberly Harmon",
+    "age": 21,
+    "city": "Danielstad",
+    "isStudent": true,
+    "grades": 78.67
+  },
+  {
+    "name": "Stephanie Garcia",
+    "age": 22,
+    "city": "Charlesport",
+    "isStudent": true,
+    "grades": 78.33
+  },
+  {
+    "name": "Jennifer Davis",
+    "age": 19,
+    "city": "North James",
+    "isStudent": true,
+    "grades": 76.33
+  },
+  {
+    "name": "Jordan Martinez",
+    "age": 24,
+    "city": "North Jason",
+    "isStudent": true,
+    "grades": 75.0
+  },
+  {
+    "name": "Michelle Mcconnell",
+    "age": 18,
+    "city": "Port Jackson",
+    "isStudent": true,
+    "grades": 79.67
+  },
+  {
+    "name": "Justin Brock",
+    "age": 25,
+    "city": "Warrenfort",
+    "isStudent": true,
+    "grades": 84.0
+  },
+  {
+    "name": "Justin Hood",
+    "age": 22,
+    "city": "East Scottport",
+    "isStudent": true,
+    "grades": 78.67
+  },
+  {
+    "name": "Ashley Franco",
+    "age": 23,
+    "city": "New James",
+    "isStudent": true,
+    "grades": 83.67
+  },
+  {
+    "name": "Jennifer Bennett",
+    "age": 25,
+    "city": "West Jenniferbury",
+    "isStudent": true,
+    "grades": 88.33
+  },
+  {
+    "name": "Brittany Miles",
+    "age": 19,
+    "city": "West Gene",
+    "isStudent": true,
+    "grades": 78.33
+  },
+  {
+    "name": "Rose Norman",
+    "age": 22,
+    "city": "Kellyton",
+    "isStudent": true,
+    "grades": 86.33
+  },
+  {
+    "name": "Mark Vaughan",
+    "age": 21,
+    "city": "South Jerry",
+    "isStudent": true,
+    "grades": 76.0
+  },
+  {
+    "name": "Mary Thompson",
+    "age": 21,
+    "city": "Charleneview",
+    "isStudent": true,
+    "grades": 84.0
+  },
+  {
+    "name": "Lindsey Powers",
+    "age": 18,
+    "city": "North Brian",
+    "isStudent": true,
+    "grades": 83.33
+  },
+  {
+    "name": "Daniel Brown",
+    "age": 22,
+    "city": "North Michael",
+    "isStudent": true,
+    "grades": 88.67
+  },
+  {
+    "name": "Lance Johnson",
+    "age": 26,
+    "city": "Debbiefort",
+    "isStudent": true,
+    "grades": 75.0
+  },
+  {
+    "name": "Ronald Silva",
+    "age": 23,
+    "city": "Lake Robert",
+    "isStudent": true,
+    "grades": 90.67
+  },
+  {
+    "name": "Alexis James",
+    "age": 19,
+    "city": "Pamelaville",
+    "isStudent": true,
+    "grades": 75.67
+  },
+  {
+    "name": "Andrea Humphrey",
+    "age": 26,
+    "city": "Pamelaville",
+    "isStudent": true,
+    "grades": 75.33
+  },
+  {
+    "name": "David Floyd",
+    "age": 20,
+    "city": "Cherylstad",
+    "isStudent": true,
+    "grades": 75.0
+  },
+  {
+    "name": "Allen Quinn",
+    "age": 21,
+    "city": "Lake Nicholasview",
+    "isStudent": true,
+    "grades": 85.67
+  },
+  {
+    "name": "Daniel Mills",
+    "age": 20,
+    "city": "Lake Annetteside",
+    "isStudent": true,
+    "grades": 90.67
+  },
+  {
+    "name": "Tanya Reid",
+    "age": 19,
+    "city": "Willisland",
+    "isStudent": true,
+    "grades": 81.67
+  },
+  {
+    "name": "Patrick Pierce",
+    "age": 19,
+    "city": "Estradabury",
+    "isStudent": true,
+    "grades": 90.67
+  },
+  {
+    "name": "Jennifer Decker",
+    "age": 19,
+    "city": "North Brianport",
+    "isStudent": true,
+    "grades": 79.0
+  },
+  {
+    "name": "Betty Dodson",
+    "age": 23,
+    "city": "Port Teresachester",
+    "isStudent": true,
+    "grades": 85.67
+  },
+  {
+    "name": "Pamela Cole",
+    "age": 21,
+    "city": "Murphyhaven",
+    "isStudent": true,
+    "grades": 76.33
+  },
+  {
+    "name": "Holly Barnes",
+    "age": 21,
+    "city": "Lake Emmaburgh",
+    "isStudent": true,
+    "grades": 78.67
+  },
+  {
+    "name": "Lorraine Bennett",
+    "age": 18,
+    "city": "Shannonhaven",
+    "isStudent": true,
+    "grades": 76.0
+  },
+  {
+    "name": "Joseph Mccormick",
+    "age": 19,
+    "city": "New Brianhaven",
+    "isStudent": true,
+    "grades": 80.33
+  },
+  {
+    "name": "Randall Brown",
+    "age": 18,
+    "city": "Port Johnfurt",
+    "isStudent": true,
+    "grades": 87.33
+  },
+  {
+    "name": "Cassandra Williams",
+    "age": 19,
+    "city": "East Keith",
+    "isStudent": true,
+    "grades": 81.67
+  },
+  {
+    "name": "Mike Rowland",
+    "age": 20,
+    "city": "East Ruben",
+    "isStudent": true,
+    "grades": 79.0
+  },
+  {
+    "name": "Summer Chase",
+    "age": 19,
+    "city": "Frankville",
+    "isStudent": true,
+    "grades": 89.33
+  },
+  {
+    "name": "Bryce Miller",
+    "age": 26,
+    "city": "Nicoleburgh",
+    "isStudent": true,
+    "grades": 75.0
+  },
+  {
+    "name": "Martin Anderson",
+    "age": 21,
+    "city": "Youngstad",
+    "isStudent": true,
+    "grades": 81.0
+  },
+  {
+    "name": "James Moon",
+    "age": 26,
+    "city": "Anthonyview",
+    "isStudent": true,
+    "grades": 81.0
+  },
+  {
+    "name": "Karen Richards",
+    "age": 20,
+    "city": "South Ashlee",
+    "isStudent": true,
+    "grades": 76.0
+  },
+  {
+    "name": "Kenneth Fletcher",
+    "age": 26,
+    "city": "Masonfurt",
+    "isStudent": true,
+    "grades": 78.33
+  },
+  {
+    "name": "Ashley Smith",
+    "age": 24,
+    "city": "Richardsonland",
+    "isStudent": true,
+    "grades": 75.33
+  },
+  {
+    "name": "Jennifer Hunter",
+    "age": 25,
+    "city": "West Lauraview",
+    "isStudent": true,
+    "grades": 76.0
+  },
+  {
+    "name": "Kimberly White",
+    "age": 20,
+    "city": "New Ronald",
+    "isStudent": true,
+    "grades": 76.0
+  },
+  {
+    "name": "Susan Brady",
+    "age": 24,
+    "city": "Lake Andreafort",
+    "isStudent": true,
+    "grades": 88.67
+  },
+  {
+    "name": "Tammy Moody",
+    "age": 21,
+    "city": "Brendaborough",
+    "isStudent": true,
+    "grades": 83.33
+  },
+  {
+    "name": "Pamela Garner",
+    "age": 24,
+    "city": "Port Stephenview",
+    "isStudent": true,
+    "grades": 75.67
+  },
+  {
+    "name": "Mark Conley",
+    "age": 24,
+    "city": "Olsonfurt",
+    "isStudent": true,
+    "grades": 75.67
+  }
+]
