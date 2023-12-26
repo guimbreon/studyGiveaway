@@ -27,20 +27,28 @@ Each person in the JSON file is structured as follows:
 
 ## Selection Criteria
 
-1. Individuals selected must meet the following criteria:
-    - `isStudent` must be true.
-    - Age must be between 18 and 26.
-    - Top 5 grades for each city.
+- `isStudent` must be true.
+- The top 5 grades for each city are considered.
 
-## Organization Requirements
+### Standart Criteria:
+To be included, individuals must meet the following criteria:
+- Grades must be equal to or greater than 75.
+- Age must be between 18 and 26.
 
-### Mandatory Criteria
-1. Individuals must meet the following mandatory criteria for inclusion:
-    - `isStudent` must be true.
-    - Grades must be equal to or greater than 75.
-    - Age must be between 18 and 26.
+### Custom Criteria:
+- mininum median grade;
+- min and max age.
 
-### Overall Organization
+They should be represented by this order:
+   ```python
+   python3 refresh.py "your_original_data.json" minAge maxAge medianGrade
+   ```
+You can personalize it by only giving:
+- minAge;
+- minAge + maxAge;
+- minAge + maxAge + medianGrade;
+
+## Overall Organization
 The complete JSON file is organized based on the following criteria:
 1. **City:** Individuals are grouped by their respective cities.
 2. **Grades:** Within each city, individuals are further organized based on their grades.
